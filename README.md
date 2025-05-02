@@ -22,8 +22,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahrisaputra7799&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahrisaputra7799&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
