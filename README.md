@@ -1,25 +1,47 @@
-# Hi, I'm Fahri saputra
+<h1 align="center">Hi 👋, I'm Fahri saputra</h1>
+<h3 align="center">✨ Flutter Front-End Developer | Mobile UI Enthusiast ✨</h3>
 
-**Full Stack Developer | AI Enthusiast**
-
-<img src="https://your-image-url.com/banner.gif" alt="Banner" style="width:100%;"/>
-
-## 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+<p align="center">
+  <img src="https://your-image-url.com/flutter-banner.gif" alt="banner" width="100%"/>
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+### 🛠 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahrisaputra7799&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 💸 You can help me by Donating
+### 🔥 GitHub Stats
 
-[![Nih Buat Jajan](https://img.shields.io/badge/NIH%20BUAT%20JAJAN-yellow?style=for-the-badge)](https://link-donasi-kamu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
+
+---
+
+### ☕ Let's Connect
+
+<p align="center">
+  <a href="www.linkedin.com/in/fhrisptra"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fhrisaputra7799@kamu.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/fhrisptraaaa"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 💸 Support Me
+
+<p align="center">
+  <a href="https://saweria.co/username">
+    <img src="https://img.shields.io/badge/Saweria-NIH%20BUAT%20JAJAN-yellow?style=for-the-badge"/>
+  </a>
+</p>
