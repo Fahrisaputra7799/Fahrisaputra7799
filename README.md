@@ -16,7 +16,7 @@
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahrisaputra7799&layout=compact&theme=dark)
 
 ---
 
