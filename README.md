@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahri saputra</h1>
-<h3 align="center">✨ Flutter Front-End Developer | Mobile UI Enthusiast ✨</h3>
+<h3 align="center">✨ Flutter Developer | AI Enthusiast ✨</h3>
 
 <p align="center">
   <img src="https://your-image-url.com/flutter-banner.gif" alt="banner" width="100%"/>
